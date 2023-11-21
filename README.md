@@ -53,6 +53,13 @@
 - Manual Exporation testing
 - Dynamic Analysis (Run-time testing)
 - Static Analysis (Secure code Review)
+# docker image
+docker pull yoshiqui/hacme-casino
+docker run -d --name hacme-casion -p 3000:3000  yoshiqui/hacme-casino
+website on : http://localhost:3000/
+## SQL injection cheat sheet
+https://portswigger.net/web-security/sql-injection/cheat-sheet
+
 https://github.com/o2platform/Demos_Files/blob/master/HacmeBank_v2.0%20(7%20Dec%2008)/Foundstone%20Hacme%20Bank%20User%20and%20Solution%20Guide%20v2.0.pdf
 
 ==Array==
