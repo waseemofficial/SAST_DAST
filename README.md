@@ -47,7 +47,13 @@
 </div>
 <div align="left">
  
-# Title
+# SAST and DAST
+
+## testing types:
+- Manual Exporation testing
+- Dynamic Analysis (Run-time testing)
+- Static Analysis (Secure code Review)
+https://github.com/o2platform/Demos_Files/blob/master/HacmeBank_v2.0%20(7%20Dec%2008)/Foundstone%20Hacme%20Bank%20User%20and%20Solution%20Guide%20v2.0.pdf
 
 ==Array==
 </div>
